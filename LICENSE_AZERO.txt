@@ -1,0 +1,5 @@
+A-ZERO vΩ — RESTRICTIVE INDUSTRIAL PROPRIETARY LICENSE
+Copyright (c) 2026 Fabrizio Sinnone
+
+1. È concesso esclusivamente il diritto di lettura dei report prestazionali.
+2. Divieto assoluto di ingegneria inversa su FARO-7, server Julia o pipeline 4848.
