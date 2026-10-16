@@ -1,9 +1,5 @@
 A-ZERO vΩ — RESTRICTIVE INDUSTRIAL PROPRIETARY LICENSE
-Copyright (c) 2026 Fabrizio Sinnone — Architect & Orchestrator. All Rights Reserved.
-Protect My Work Global Registry Reference: Ref. 318091409265012
+Copyright (c) 2026 Fabrizio Sinnone
 
-1. CONDIZIONI D'USO E LIMITAZIONI CONCETTUALI
-È concesso esclusivamente il diritto di lettura dei report prestazionali e dei benchmark.
-
-2. DIVIETO ASSOLUTO DI INGEGNERIA INVERSA
-È fatto esplicito divieto di utilizzare i dati per tentare di ricostruire o derivare la logica del modulo FARO-7, del server Julia o della pipeline sul socket 4848.
+1. È concesso esclusivamente il diritto di lettura dei report prestazionali.
+2. Divieto assoluto di ingegneria inversa su FARO-7, server Julia o pipeline 4848.
